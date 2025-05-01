@@ -75,6 +75,14 @@ MIT License. Use and modify freely.
 
 ---
 
+## 🛡️ Looking for the Cybersecurity Version?
+
+Check out the companion guide tailored for penetration testing, incident response, and secure web application design:
+
+🔗 [Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it)
+
+---
+
 ## 🙌 Contribute
 
 Found something missing or want to improve the formatting? Feel free to fork this repo and submit a pull request.
