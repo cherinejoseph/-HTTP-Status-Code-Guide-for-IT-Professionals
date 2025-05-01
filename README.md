@@ -79,7 +79,7 @@ MIT License. Use and modify freely.
 
 Check out the companion guide tailored for penetration testing, incident response, and secure web application design:
 
-🔗 [Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it)
+🔗 [Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it.)
 
 ---
 
